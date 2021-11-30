@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+	<string name="app_name">Android Sync App</string>
+	<string name="account_type">com.companyname.androidsyncapp.account</string>
+	<string name="content_authority">com.companyname.androidsyncapp.provider</string>
+</resources>
